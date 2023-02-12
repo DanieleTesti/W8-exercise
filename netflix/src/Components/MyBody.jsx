@@ -50,7 +50,7 @@ class MyBody extends Component {
         </div>
         <div className="my-4 ">
           <h4 className="my-4 text-left">Trending Now</h4>
-          <FirstLine title={"harry potter"} />
+          <FirstLine title={"toy story"} />
         </div>
         <div className="my-4 ">
           <h4 className="my-4 text-left">Watch it Again</h4>
